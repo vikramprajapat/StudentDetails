@@ -10,7 +10,7 @@ public class Student {
 		this.name = name;
 		this.address = address;
 		this.cls = cls;
-	}
+	} 
 
 	public String getName() {
 		return name;
