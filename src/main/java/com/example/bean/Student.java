@@ -21,7 +21,7 @@ public class Student {
 	}
 
 	public String getCls() {
-		return cls;
+		return cls; 
 	}
 }
 
